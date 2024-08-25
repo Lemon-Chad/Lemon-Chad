@@ -1,8 +1,8 @@
-# The Lemon God
+# Jackson Smith
 
 ## Who am I?
 
-Somebody better than you.
+Hobbyist developer studying CS.
 
 ## What am I working on?
 
