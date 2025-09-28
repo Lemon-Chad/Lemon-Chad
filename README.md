@@ -6,7 +6,7 @@ Hobbyist developer studying CS.
 
 ## What am I working on?
 
-The [best programming language](https://github.com/Lemon-Chad/jpizza).
+The [best programming language](https://github.com/Lemon-Chad/nupiz).
 
 ## How cool am I?
 
